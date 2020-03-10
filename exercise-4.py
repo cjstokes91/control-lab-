@@ -24,6 +24,6 @@ elif a != b != c:
     print(f'A trinagle with sides of {a} , {b} and {c} is a type of scalene triangle')
 else: 
     print(f'A trinagle with sides of {a} , {b} and {c} is a type of isolceles triangle')
-    
+    5
 
  
